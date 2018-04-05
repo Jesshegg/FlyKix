@@ -1,6 +1,11 @@
 <style>
-body {
 
+  {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
 }
 
 .header {
@@ -20,6 +25,10 @@ body {
 
 .navigation a:hover {
   background-color: ccdfff;
+}
+
+.footer {
+  background color: #f1f1f1
 }
 
 </style>
