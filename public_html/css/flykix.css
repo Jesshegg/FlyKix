@@ -1,0 +1,22 @@
+body {
+  background-color: #9ab9ea
+}
+
+.navigation > ul li {
+       display: inline-block;
+       float: left;
+       background-color: #c0d3f2;
+       text align: center;
+       padding: 20px;
+}
+.masthead {
+       font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+       font-size: 36px;
+       text-transform: uppercase;
+       background-color: #f1f1f1;
+       font color= #0f3f8c;
+       text-align: center;
+       padding: 36px;
+       border-top: double #000000;
+       border-bottom: double #000000;
+}
