@@ -1,0 +1,17 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "vikingsmn.x10host.com",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "vikingsm",
+  "watch": [],
+  "transport": "scp",
+  "target": "/home/vikingsm"
+}
