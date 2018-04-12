@@ -2,6 +2,24 @@ body {
   background-color: #9ab9ea
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #c0d3f2;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 6px;
+}
+
+/*
 .navigation > ul li {
        display: inline-block;
        float: left;
@@ -9,6 +27,8 @@ body {
        text align: center;
        padding: 20px;
 }
+*/
+
 .masthead {
        font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
        font-size: 36px;

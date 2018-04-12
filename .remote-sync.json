@@ -12,6 +12,8 @@
   ],
   "username": "vikingsm",
   "watch": [],
-  "transport": "scp",
-  "target": "/home/vikingsm"
+  "transport": "ftp",
+  "target": "/home/vikingsm",
+  "port": "21",
+  "password": "Jondon2332"
 }

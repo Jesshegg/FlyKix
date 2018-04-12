@@ -1,8 +1,7 @@
-
-  <div class="navigation">
-    <ul>
-        <li><a href="womens.php">Women's</a></li>
-        <li><a href="mens.php">Men's</li>
-        <li><a href="cart.php">Cart</li>
-    </ul>
-  </div>
+       <ul>
+         <li><a href='index.php?p=home'>Home</a></li>
+         <li><a href='index.php?p=womens'>Womens</a></li>
+         <li><a href='index.php?p=mens'>Mens</a></li>
+         <li><a href='index.php?p=cart'>Cart</a></li>
+       </ul>
+<BR />
